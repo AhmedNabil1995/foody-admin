@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/foody-admin/static/css/main.227ce419.css",
-    "main.js": "/foody-admin/static/js/main.f98f4bad.js",
+    "main.js": "/foody-admin/static/js/main.f2a1b86c.js",
     "static/media/noImage.jpg": "/foody-admin/static/media/noImage.6a775bd64913c4f650c6.jpg",
     "index.html": "/foody-admin/index.html",
     "main.227ce419.css.map": "/foody-admin/static/css/main.227ce419.css.map",
-    "main.f98f4bad.js.map": "/foody-admin/static/js/main.f98f4bad.js.map"
+    "main.f2a1b86c.js.map": "/foody-admin/static/js/main.f2a1b86c.js.map"
   },
   "entrypoints": [
     "static/css/main.227ce419.css",
-    "static/js/main.f98f4bad.js"
+    "static/js/main.f2a1b86c.js"
   ]
 }
