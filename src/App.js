@@ -20,8 +20,8 @@ function App() {
     <div className={value?'App darkmode':'App'}>
       <BrowserRouter>
         <Routes>
-          <Route path="/" element={admin ? <Home />: <Navigate to={`/login`} />}/>
-          <Route path="/home" element={admin ? <Home />: <Navigate to={`/login`} />}/>
+          <Route path="/foody-admin" element={admin ? <Home />: <Navigate to={`/login`} />}/>
+
           <Route path="/login" element={admin ? <Navigate to={`/home`} />: <Auth />}/>
 
           <Route path="/users" element={admin ?<List />: <Navigate to='/login' /> } />
