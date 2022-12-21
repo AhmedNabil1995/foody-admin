@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.227ce419.css",
-    "main.js": "/static/js/main.8dfb1c74.js",
-    "static/media/noImage.jpg": "/static/media/noImage.6a775bd64913c4f650c6.jpg",
-    "index.html": "/index.html",
-    "main.227ce419.css.map": "/static/css/main.227ce419.css.map",
-    "main.8dfb1c74.js.map": "/static/js/main.8dfb1c74.js.map"
+    "main.css": "/foody-admin/login/static/css/main.227ce419.css",
+    "main.js": "/foody-admin/login/static/js/main.0f354ded.js",
+    "static/media/noImage.jpg": "/foody-admin/login/static/media/noImage.6a775bd64913c4f650c6.jpg",
+    "index.html": "/foody-admin/login/index.html",
+    "main.227ce419.css.map": "/foody-admin/login/static/css/main.227ce419.css.map",
+    "main.0f354ded.js.map": "/foody-admin/login/static/js/main.0f354ded.js.map"
   },
   "entrypoints": [
     "static/css/main.227ce419.css",
-    "static/js/main.8dfb1c74.js"
+    "static/js/main.0f354ded.js"
   ]
 }
