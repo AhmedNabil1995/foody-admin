@@ -21,6 +21,7 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path="/foody-admin" element={admin ? <Home />: <Navigate to={`/login`} />}/>
+          <Route path="/home" element={admin ? <Home />: <Navigate to={`/login`} />}/>
 
           <Route path="/login" element={admin ? <Navigate to={`/home`} />: <Auth />}/>
 
