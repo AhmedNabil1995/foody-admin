@@ -1,7 +1,7 @@
 {
   "name": "dashboard",
   "version": "0.1.0",
-  "home":"https://AhmedNabil1995.github.io/foody-admin",
+  "home":"https://AhmedNabil1995.github.io/foody-admin/login",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.3",
